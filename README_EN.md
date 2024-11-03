@@ -1,5 +1,5 @@
 
-# *HMC-SkinAPI*
+# *HMC-SkinAPI(Translated by GPT4)*
 **Introduction to TydiumCraft Skin API**<br>
 The TydiumCraft Skin API automatically sends a Minecraft username or UUID to the GeyserMC API to obtain a texture ID, then sends this texture ID to mc-heads to retrieve the player's Minecraft skin image.
 
