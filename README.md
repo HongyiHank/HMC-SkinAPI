@@ -28,7 +28,7 @@ TydiumCraft Skin API 會自動將Minecraft 使用者名稱或UUID 發送至Geyse
 **使用方法**<br>
 使用`python HMC_SkinAPI.py` 即可運行<br>
 (如果報錯可嘗試將python 替換為 python3)<br>
- 2. List item<br>
+ 2. xbox-query<br>
  **依賴安裝**<br>
 與第一點相同，但需要先參考[xbox-query](https://github.com/XiYang6666/xbox-query) 之readme 安裝xbox-query 並登錄(建議創一個新的Microsoft帳號)<br>
 **使用方式**<br>

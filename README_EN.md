@@ -26,7 +26,7 @@ The external API version is simpler to use but slower, whereas using xbox-query 
    **Usage**<br>
    Run with `python HMC_SkinAPI.py`<br>
    (If an error occurs, try replacing `python` with `python3`.)<br>
-2. xbox-query API<br>
+2. xbox-query<br>
    **Requirements Installation**<br>
    Same as the first method, but refer to the [xbox-query](https://github.com/XiYang6666/xbox-query) README to install xbox-query and log in (it’s recommended to create a new Microsoft account).<br>
    **Usage**<br>
