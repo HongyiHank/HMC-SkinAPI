@@ -1,7 +1,7 @@
 
 # *HMC-SkinAPI*
 🔤[**English readme**](https://github.com/HongyiHank/HMC-SkinAPI/blob/main/README_EN.md)<br>
-可使用http://api.hhdoubleh.us.to/skin/<UUID>來調用api(此為示例網站，建議自行架設)<br>
+可使用http://api.hhdoubleh.us.to/skin/USERNAME 來調用api(此為示例網站，建議自行架設)<br>
 
 **TydiumCraft Skin API介紹**<br>
 TydiumCraft Skin API 會自動將Minecraft 使用者名稱或UUID 發送至GeyserMC API以獲取texture ID，接著將texture ID 發送至mc-heads以獲取使用者之Minecraft Skin 圖片。

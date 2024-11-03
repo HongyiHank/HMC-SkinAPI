@@ -1,7 +1,7 @@
 
 # *HMC-SkinAPI(Translated by GPT-4o)*
 🔤[**English readme**](https://github.com/HongyiHank/HMC-SkinAPI/blob/main/README_EN.md)<br>
-You can call the API using http://api.hhdoubleh.us.to/skin/<UUID> (this is a sample website, it is recommended to set up your own)
+You can call the API using http://api.hhdoubleh.us.to/skin/USERNAME (this is a sample website, it is recommended to set up your own)<br>
 
 **Introduction to TydiumCraft Skin API**<br>
 The TydiumCraft Skin API automatically sends the Minecraft username or UUID to the GeyserMC API to obtain the texture ID, then sends the texture ID to mc-heads to get the Minecraft skin image of the user.
