@@ -41,9 +41,8 @@ def get_skin_head_url(uuid, is_bedrock=False):
         return f'https://mc-heads.net/head/{uuid}'
 
 # 重定向至mc-heads
-@app.route('/v1/players/skin', methods=['GET'])
-def render_skin_head():
-    uuid = request.args.get('uuid')
+@app.route('/skin/<uuid>', methods=['GET'])
+def render_skin_head(uuid):
     if not uuid:
         return jsonify({'error': 'UUID is required'}), 400
 
