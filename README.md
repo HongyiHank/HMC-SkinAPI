@@ -10,7 +10,10 @@ TydiumCraft Skin API 會自動將Minecraft 使用者名稱或UUID 發送至Geyse
  - 無法通過更改url切換skin樣式(可通過更改`https://mc-heads.net/head/`來解決)
  - 無法通過UUID請求API(未知曉解決方法)
 
-此API會先查詢基岩版玩家之XBOX XUID <br>查詢方法分為使用外部API查詢與使用[xbox-query](https://github.com/XiYang6666/xbox-query) 查詢。<br>外部API版本使用方式簡單，但獲取速度慢，而使用xbox-query 則反之<br>(HMC-SkinAPI 示例網站使用外部API方法查詢)
+此API會先查詢基岩版玩家之XBOX XUID <br>
+查詢方法分為使用外部API查詢與使用[xbox-query](https://github.com/XiYang6666/xbox-query) 查詢。<br>
+外部API版本使用方式簡單，但獲取速度慢，而使用xbox-query 則反之<br>
+(HMC-SkinAPI 示例網站使用外部API方法查詢)
 
 📕小故事：我一開始不知道TydiumCraft Skin API 的實現方法有寫在官網上，所以我還想了很久要怎麼實現。目前的實現方是我自己想出來的，所以跟TydiumCraft Skin API 可能有一點不一樣。
 # 安裝
