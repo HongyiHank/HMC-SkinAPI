@@ -1,5 +1,8 @@
 
 # *HMC-SkinAPI(Translated by GPT-4o)*
+[Discord MC Chat](https://github.com/Xujiayao/Discord-MC-Chat) Supported player textures query, so the update is stopped.
+****
+
 🔤[**English readme**](https://github.com/HongyiHank/HMC-SkinAPI/blob/main/README_EN.md)<br>
 You can call the API using https://api.hhdoubleh.us.to/skin/USERNAME (this is a sample website, it is recommended to set up your own)<br>
 
