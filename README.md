@@ -1,6 +1,11 @@
 
+
 # *HMC-SkinAPI*
+[Discord MC Chat](https://github.com/Xujiayao/Discord-MC-Chat) 支援了player textures查詢，故本專案停止更新
+****
+
 🔤[**English readme**](https://github.com/HongyiHank/HMC-SkinAPI/blob/main/README_EN.md)<br>
+
 可使用https://api.hhdoubleh.us.to/skin/USERNAME 來調用api(此為示例網站，建議自行架設)<br>
 
 **TydiumCraft Skin API介紹**<br>
